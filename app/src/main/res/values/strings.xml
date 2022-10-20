@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fitness_app</string>
+
+    <string-array name="categorie_array">
+        <item>Choisir une categorie</item>
+        <item>abdominaux</item>
+        <item>avant_bras</item>
+        <item>biceps</item>
+        <item>cuisses</item>
+        <item>dos</item>
+        <item>epaules</item>
+        <item>mollets</item>
+        <item>parties</item>
+        <item>triceps</item>
+    </string-array>
+
+</resources>
